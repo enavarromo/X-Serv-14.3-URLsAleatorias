@@ -27,6 +27,7 @@ try:
 # Una maquina de dos estados para almacenar y luego sumar, esto asume que el que
 # envia el primero y el segundo numero son el mismo tipo, si hay uan peticion
 # entre medias, se jorobo el asunto. Como si no demomento.
+# Ejercicio 14.5-calculadora...
         if address[0] == '127.0.0.1':
             print "Coming from Loopback"
             # -------------- HTTP to LoopBack --------------
